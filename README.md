@@ -7,6 +7,7 @@ https://github.com/spacy-io/spaCy
 ## Clone
 
 `git clone https://github.com/chssch/textacy-docker`
+
 `cd textacy-docker`
 
 ## Build
