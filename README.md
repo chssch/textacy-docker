@@ -2,6 +2,7 @@
 Minimal docker container for quick experiments/tests with spacy/textacy on IPython.
 
 https://github.com/chartbeat-labs/textacy (currently it takes the master branch from git)
+
 https://github.com/spacy-io/spaCy
 
 ## Clone
